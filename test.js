@@ -220,7 +220,7 @@ class Heart {
 
 (function () {
   "use strict";
-  alert("hello");
+  alert("点一下我");
   window.addEventListener("load", function () {
     offCanvas = new Canvas(false);
     canvas = new Canvas(true);
